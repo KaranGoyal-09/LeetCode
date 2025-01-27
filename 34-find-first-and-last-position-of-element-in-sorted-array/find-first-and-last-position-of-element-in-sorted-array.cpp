@@ -39,6 +39,5 @@ public:
         return arr;
          
     }
-//Thank you ;
-//you just forgot to up vote :)
+
 };
